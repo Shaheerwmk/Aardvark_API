@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aardvark_API", "Aardvark_API.csproj", "{A77D144A-E5E4-4507-AC48-6D70B5ECFD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77D144A-E5E4-4507-AC48-6D70B5ECFD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77D144A-E5E4-4507-AC48-6D70B5ECFD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77D144A-E5E4-4507-AC48-6D70B5ECFD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77D144A-E5E4-4507-AC48-6D70B5ECFD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D1288B-0AD2-4196-923B-343840AC5B32}
+	EndGlobalSection
+EndGlobal
